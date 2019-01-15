@@ -6,14 +6,14 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://AngelaCao28.github.io/"
 
 # Title of your site
-title = "Academic"
+title = "Anqi Cao's Homepage"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019 Anqi Cao"
 
 theme = "academic"
 enableEmoji = true
@@ -52,26 +52,22 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Anqi Cao"
+  role = "Ph.D. Candidate of ZJUVIS Group"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Zhejiang University", url = "http://www.zju.edu.cn" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait(1).jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = """
-  Monday 10:00 to 13:00<br>
-  Wednesday 09:00 to 10:00<br>
-  Otherwise email to book an appointment
-  """
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "caoanqi28@gmail.com"
+  address = "Mengminwei Building Room 417, Zijingang Campus of Zhejiang University, Hangzhou, 310058, China"
+  office_hours = "Weekdays 10:00 to 20:00 or email for appointment"
+  phone = "86 152-2268-6105"
+  skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -109,7 +105,7 @@ enableGitInfo = false
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
   color_theme = "default"
   # Enable users to switch between day and night mode?
-  day_night = true
+  day_night = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -122,7 +118,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "AngelaCao_28"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -268,17 +264,17 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "https://twitter.com/GeorgeCushen"
+    link = "https://twitter.com/AngelaCao_28"
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+# [[params.social]]
+#   icon = "google-scholar"
+#   icon_pack = "ai"
+#   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "https://github.com/gcushen"
+    link = "https://github.com/AngelaCao28"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -305,20 +301,20 @@ enableGitInfo = false
   url = "#publications_selected"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Talks"
+  url = "#talks"
   weight = 4
 
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
+#[[menu.main]]
+#  name = "Tutorials"
+#  url = "/tutorial/"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
@@ -338,7 +334,7 @@ enableGitInfo = false
   #   0: No search engine
   #   1: Built-in (Fuse)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
