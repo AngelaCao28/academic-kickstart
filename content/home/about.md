@@ -23,7 +23,7 @@ weight = 5
 [[education.courses]]
   course = "BSc in Computer Science"
   institution = "Nankai University"
-  year = "2014-2019"
+  year = "2015-2019"
  
 +++
 
