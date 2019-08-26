@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Data Visualization",
-    "Visual Analysis"
+    "Visual Analytics"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -29,8 +29,8 @@ weight = 5
 
 # Biography
 
-Anqi Cao is a Ph.D. candidate of computer science at the State Key Lab of CAD&CG, Zhejiang University and a ZJUVIS group member supervised by Prof. Yingcai Wu.
+Anqi Cao is a Ph.D. candidate of computer science at the State Key Lab of CAD&CG, Zhejiang University and a [ZJUIDG](https://zjuidg.org) member supervised by Prof. Yingcai Wu.
 
 I have received my bachelor's degree in computer science from College of Computer Science in Nankai University, 2019.
 
-My current research interests mainly include data visualization and visual analysis.
+My current research interests mainly include data visualization and visual analytics.

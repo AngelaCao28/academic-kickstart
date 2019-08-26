@@ -53,7 +53,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Anqi Cao"
-  role = "Ph.D. Candidate of ZJUVIS Group"
+  role = "Ph.D. Candidate of ZJUIDG"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -63,7 +63,7 @@ enableGitInfo = false
   avatar = "portrait(1).jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "caoanqi28@gmail.com"
+  email = "caoanqi@zju.edu.cn"
   address = "Mengminwei Building Room 417, Zijingang Campus of Zhejiang University, Hangzhou, 310058, China"
   office_hours = "Weekdays 10:00 to 20:00 or email for appointment"
   phone = "86 152-2268-6105"
