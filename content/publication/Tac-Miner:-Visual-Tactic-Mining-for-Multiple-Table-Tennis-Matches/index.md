@@ -1,10 +1,10 @@
 +++
-title = "Tac-Simur: Tactic-based Simulative Visual Analytics of Table Tennis"
-date = 2019-08-20T19:11:26+08:00
+title = "Tac-Miner: Visual Tactic Mining for Multiple Table Tennis Matches"
+date = 2021-04-23T12:52:07+08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jiachen Wang", "Kejian Zhao", "Dazhen Deng", "**Anqi Cao**", "Xiao Xie", "Zheng Zhou", "Hui Zhang", "Yingcai Wu"]
+authors = ["Jiachen Wang", "Jiang Wu", "**Anqi Cao**", "Zheng Zhou", "Hui Zhang", "Yingcai Wu"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Jiachen Wang", "Kejian Zhao", "Dazhen Deng", "**Anqi Cao**", "Xiao X
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2019)"
+publication = "IEEE Transactions on Visualization and Computer Graphics (IEEE PacificVis 2021, Honorable Mentioned Award)"
 publication_short = "IEEE TVCG"
 
 # Abstract and optional shortened version.
@@ -49,13 +49,13 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://zjuidg.org/source/projects/tacSimur/Tac-Simur.pdf"
+url_pdf = "https://zjuidg.org/source/projects/TacMiner/tacminer.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = "https://www.youtube.com/watch?v=_I6cne3Wd4U"
+url_video = "https://www.youtube.com/watch?v=MCv7BF2Njtk"
 url_poster = ""
 url_source = ""
 
@@ -64,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/TVCG.2019.2934630"
+doi = "10.1109/TVCG.2021.3074576"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -76,3 +76,4 @@ doi = "10.1109/TVCG.2019.2934630"
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+

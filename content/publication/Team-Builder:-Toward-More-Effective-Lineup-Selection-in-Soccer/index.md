@@ -1,10 +1,10 @@
 +++
-title = "Tac-Simur: Tactic-based Simulative Visual Analytics of Table Tennis"
-date = 2019-08-20T19:11:26+08:00
+title = "Team-Builder: Toward More Effective Lineup Selection in Soccer"
+date = 2022-09-16T16:20:38+08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jiachen Wang", "Kejian Zhao", "Dazhen Deng", "**Anqi Cao**", "Xiao Xie", "Zheng Zhou", "Hui Zhang", "Yingcai Wu"]
+authors = ["**Anqi Cao**", "Ji Lan", "Xiao Xie", "Hongyu Chen", "Xiaolong Zhang", "Hui Zhang", "Yingcai Wu"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Jiachen Wang", "Kejian Zhao", "Dazhen Deng", "**Anqi Cao**", "Xiao X
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2019)"
+publication = "IEEE Transactions on Visualization and Computer Graphics"
 publication_short = "IEEE TVCG"
 
 # Abstract and optional shortened version.
@@ -26,7 +26,7 @@ abstract = ""
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -49,13 +49,13 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://zjuidg.org/source/projects/tacSimur/Tac-Simur.pdf"
+url_pdf = "https://zjuidg.org/source/projects/TeamBuilder/TeamBuilder.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = "https://www.youtube.com/watch?v=_I6cne3Wd4U"
+url_video = "https://youtu.be/-V_Mzp_o5Vw"
 url_poster = ""
 url_source = ""
 
@@ -64,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/TVCG.2019.2934630"
+doi = "10.1109/TVCG.2022.3207147"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -76,3 +76,4 @@ doi = "10.1109/TVCG.2019.2934630"
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+

@@ -11,7 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Data Visualization",
-    "Visual Analytics"
+    "Visual Analytics",
+    "Sports Data Analysis"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -33,4 +34,4 @@ Anqi Cao is a Ph.D. candidate of computer science at the State Key Lab of CAD&CG
 
 I have received my bachelor's degree in computer science from College of Computer Science in Nankai University, 2019.
 
-My current research interests mainly include data visualization and visual analytics.
+My current research interests mainly include data visualization, visual analytics, and sports data analysis.

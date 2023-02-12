@@ -13,7 +13,7 @@ title = "Anqi Cao's Homepage"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019 Anqi Cao"
+copyright = "&copy; 2023 Anqi Cao"
 
 theme = "academic"
 enableEmoji = true
@@ -256,20 +256,20 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fas"
-    link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  # [[params.social]]
+  #   icon = "envelope"
+  #   icon_pack = "fas"
+  #   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
     link = "https://twitter.com/AngelaCao_28"
 
-# [[params.social]]
-#   icon = "google-scholar"
-#   icon_pack = "ai"
-#   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+[[params.social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=AMCtFzQAAAAJ&hl=en&oi=ao"
 
   [[params.social]]
     icon = "github"

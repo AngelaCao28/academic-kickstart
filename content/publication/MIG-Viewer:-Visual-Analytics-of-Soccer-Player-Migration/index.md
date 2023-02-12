@@ -1,10 +1,10 @@
 +++
-title = "Tac-Simur: Tactic-based Simulative Visual Analytics of Table Tennis"
-date = 2019-08-20T19:11:26+08:00
+title = "MIG-Viewer: Visual Analytics of Soccer Player Migration"
+date = 2021-09-01T16:00:30+08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jiachen Wang", "Kejian Zhao", "Dazhen Deng", "**Anqi Cao**", "Xiao Xie", "Zheng Zhou", "Hui Zhang", "Yingcai Wu"]
+authors = ["**Anqi Cao**", "Xiao Xie", "Ji Lan", "Huihua Lu", "Xinli Hou", "Jiachen Wang", "Hui Zhang", "Dongyu Liu", "Yingcai Wu"]
 
 # Publication type.
 # Legend:
@@ -18,8 +18,8 @@ authors = ["Jiachen Wang", "Kejian Zhao", "Dazhen Deng", "**Anqi Cao**", "Xiao X
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2019)"
-publication_short = "IEEE TVCG"
+publication = "Visual Informatics"
+publication_short = "VI"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -49,13 +49,13 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://zjuidg.org/source/projects/tacSimur/Tac-Simur.pdf"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S2468502X21000383"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = "https://www.youtube.com/watch?v=_I6cne3Wd4U"
+url_video = "https://ars.els-cdn.com/content/image/1-s2.0-S2468502X21000383-mmc1.mp4"
 url_poster = ""
 url_source = ""
 
@@ -64,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/TVCG.2019.2934630"
+doi = "10.1016/j.visinf.2021.09.002"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -76,3 +76,4 @@ doi = "10.1109/TVCG.2019.2934630"
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
