@@ -13,7 +13,7 @@ title = "Anqi Cao's Homepage"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2023 Anqi Cao"
+copyright = "&copy; 2024 Anqi Cao"
 
 theme = "academic"
 enableEmoji = true
@@ -306,10 +306,10 @@ enableGitInfo = false
 #  url = "#posts"
 #  weight = 3
 
-[[menu.main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 4
+# [[menu.main]]
+#   name = "Talks"
+#   url = "#talks"
+#   weight = 4
 
 #[[menu.main]]
 #  name = "Tutorials"

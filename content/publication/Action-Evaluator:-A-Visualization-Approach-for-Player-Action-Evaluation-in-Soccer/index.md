@@ -1,10 +1,10 @@
 +++
-title = "Team-Builder: Toward More Effective Lineup Selection in Soccer"
-date = 2022-09-16T16:20:38+08:00
+title = "Action-Evaluator: A Visualization Approach for Player Action Evaluation in Soccer"
+date = 2023-10-25T16:20:38+08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Anqi Cao**", "Ji Lan", "Xiao Xie", "Hongyu Chen", "Xiaolong Zhang", "Hui Zhang", "Yingcai Wu"]
+authors = ["**Anqi Cao**", "Xiao Xie", "Mingxu Zhou", "Hui Zhang", "Mingliang Xu", "Yingcai Wu"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["**Anqi Cao**", "Ji Lan", "Xiao Xie", "Hongyu Chen", "Xiaolong Zhang"
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE Transactions on Visualization and Computer Graphics"
+publication = "IEEE Transactions on Visualization and Computer Graphics (IEEE VIS 2023)"
 publication_short = "IEEE TVCG"
 
 # Abstract and optional shortened version.
@@ -26,7 +26,7 @@ abstract = ""
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -49,13 +49,13 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://zjuidg.org/source/projects/TeamBuilder/TeamBuilder.pdf"
+url_pdf = "https://zjuidg.org/source/projects/ActionEvaluator/ActionEvaluator.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = "https://youtu.be/-V_Mzp_o5Vw"
+url_video = "https://www.youtube.com/watch?v=6FkF-lpMyZg"
 url_poster = ""
 url_source = ""
 
@@ -64,7 +64,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/TVCG.2022.3207147"
+doi = "10.1109/TVCG.2023.3326524"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
